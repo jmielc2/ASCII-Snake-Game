@@ -1,4 +1,4 @@
 # Terminal-Snake-Game
-A terminal snake game built with C
+A program that plays the snake game in the terminal.
 
 Target OS: Windows
